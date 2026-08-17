@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/3i_-kploawtfs.css","style"]
-:HL["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/3840px-Camps_bay_%2853460319478%29_%28cropped%29.jpg","image"]
+:HL["./_next/static/chunks/3i_-kploawtfs.css","style"]
+:HL["./trip-images/clifton-beach-nic.jpg","image"]
 :HL["https://static.wixstatic.com/media/90383c_6bb2f71faad44bff9c33ba70c464cda4~mv2.jpeg/v1/fill/w_720%2Ch_480%2Cal_c%2Clg_1%2Cq_80/90383c_6bb2f71faad44bff9c33ba70c464cda4~mv2.jpeg","image"]
 :HL["./trip-images/knysna-first.jpg","image"]
 :HL["https://upload.wikimedia.org/wikipedia/commons/7/76/View_of_Oudtshoorn%2C_South_Africa.jpg","image"]
 :HL["https://www.paternosterwc.co.za/images/gallery/gallery-19.jpg","image"]
 :HL["https://www.pelago.com/img/products/ZA-South%20Africa/addo-elephant-full-day-safari-with-a-traditional-south-african-braai-bbq-lunch/dc4b37bd-bfad-4478-8e96-6fc540251fc9_addo-elephant-full-day-safari-with-a-traditional-south-african-braai-bbq-lunch.jpg","image"]
 :HL["https://unpkg.com/leaflet@1.9.4/dist/leaflet.css","style",{"crossOrigin":""}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"3VocMqf1STBr1RFoZJ1hp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"raiqa4h6azXUY-Z06GuFF"}
